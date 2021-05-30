@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dawidx3p
 - 👀 I’m interested in Front End
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on an interesting projects
 - 📫 How to reach me: dawiddebiecx@gmail.com
 
