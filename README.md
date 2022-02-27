@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dawidx3p
+- 👋 Hi, I’m Dawid Dębiec
 - 👀 I’m interested in Front End
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on an interesting projects
