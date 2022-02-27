@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dawid Dębiec
-- 👀 I’m interested in Front End
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on an interesting projects
+- 👀 I’m interested in Front End Design
+- 🌱 I’m currently lookig for a job as a Junior Front End Developer
+- 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: dawiddebiecx@gmail.com
 
 <!---
